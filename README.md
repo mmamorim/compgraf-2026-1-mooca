@@ -8,7 +8,7 @@
 
 --- 
 
-* [Aula 01](./Aula01_18AGO/) (10/02) - Apresentação da UC
+* **Aula 01** - Apresentação da UC
 **CARNAVAL (17/02)**
 * [Aula 02](./Aula02_24FEV/) (24/02) - Representação de Imagens
 
