@@ -9,6 +9,7 @@
 --- 
 
 * **Aula 01** - Apresentação da UC
+
 **CARNAVAL (17/02)**
 * [Aula 02](./Aula02_24FEV/) (24/02) - Representação de Imagens
 * [Aula 03](./Aula03_03MAR/) (03/03) - Usando o rasterLab
