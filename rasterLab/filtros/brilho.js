@@ -1,4 +1,4 @@
-let fator = 0.2
+let fator = 1.5
 
 function brilho(imageLab) {
     for(let y=1; y <= imageLab.image1.height; y++) {
