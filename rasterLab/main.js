@@ -8,6 +8,7 @@ import sepia from "./filtros/sepia.js";
 import flipV from "./filtros/flipV.js";
 import flipH from "./filtros/flipH.js";
 import flipVH from "./filtros/flipVHy.js";
+import escala from "./filtros/escala.js";
 
 console.log('imageLab', imageLab);
 imageLab.setLoadButtonID('btnLoad')
@@ -20,5 +21,6 @@ createFilters(imageLab, [
     { label: 'FLIP-V', method: flipV },
     { label: 'FLIP-H', method: flipH },
     { label: 'FLIP-VH', method: flipVH },
+    { label: 'ESCALA', method: escala },
 ])
 
